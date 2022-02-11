@@ -20,3 +20,4 @@ Low Level Requirements: -
 • Average mileage is multiplied by 0.79 .
 • Then the program takes the sum of all the above values.
 • Then it displays the score and informs us about the carbon emissions around us.
+ The program is successfully executed using main.c carbon.h and carbon.c, It gives the output in form of score which lets us know about the carbon emissions in LOW,HIGH and MODERATE format.
