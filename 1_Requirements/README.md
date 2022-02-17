@@ -9,18 +9,27 @@ REQUIREMENTS
 High Level Requirements: -
 
 •	This project is used calculate our carbon footprint (carbon emissions).
+
 •	It helps calculate our carbon footprint and take steps to lower it down.
+
 •	It also provides tips & tricks to lower the carbon emission by us.
+
 •	It rates our environment on the basis of the score which helps us to estimate our contribution in emitting carbon in our surroundings.
 
 Low Level Requirements: -
 
 •	This program takes input from the user to store various kinds of information such as the annual electricity bill units, monthly petrol usage in liters, annual LPG bill units and average mileage.
+
 •	We multiply the value of electricity bill units by 12 and 0.85
+
 •	We then multiply the value of petrol usage by 2.296
+
 •	LPG bill units is multiplied by 14 and 2.983
+
 •	Average mileage is multiplied by 0.79
+
 •	Then the program takes the sum of all the above values
+
 •	Then it displays the score and informs us about the carbon emissions around us.
 
 SWOT ANALYSIS
