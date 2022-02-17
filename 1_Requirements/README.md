@@ -22,3 +22,16 @@ Low Level Requirements: -
 •	Average mileage is multiplied by 0.79
 •	Then the program takes the sum of all the above values
 •	Then it displays the score and informs us about the carbon emissions around us.
+
+SWOT ANALYSIS
+
+Strength- It Calculates the Carbon Emission value in your surroundings released by you. According to your score it detects and recommends the step you need to take to better yourself and emit less carbon in your surroundings.
+Weakness - It does not include all parametres and gives an approximate value and not a fully accurate value.
+Opportunities- This carbon footprint calculator helps better your life and helps to reduce global warming across the globe in the near future.
+
+4W's 1H
+What- Carbon Footprint Calculator
+where- In Homes,Workdpaces.
+When - Anytime to calculate the carbon emission.
+Why- To calculate carbon emissions and steps to lower it.
+How- It will ask user to give inputs in form of parametres like Petrol consumption,gas consumption etc and based on this calculate the carbon emission score.
