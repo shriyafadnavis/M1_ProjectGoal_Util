@@ -52,7 +52,7 @@ Why- To calculate carbon emissions and steps to lower it.
 How- It will ask user to give inputs in form of parametres like Petrol consumption,gas consumption etc and based on this calculate the carbon emission score.
 
 
-#HIGH LEVEL REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS
 
 
 |  ID|Description|Status|
@@ -63,7 +63,7 @@ How- It will ask user to give inputs in form of parametres like Petrol consumpti
   | HR04 | Display list which includes the steps and preventive to lower the carbon emission | Future|
   
   
-  #LOW LEVEL REQUIREMENTS
+  # LOW LEVEL REQUIREMENTS
   |  ID|Description|Status|
   |---|---|---|
   | LR01 | Enter data from the user | Implemented |
