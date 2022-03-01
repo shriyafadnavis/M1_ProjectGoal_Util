@@ -66,6 +66,16 @@ How- It will ask user to give inputs in form of parametres like Petrol consumpti
 Implementation - All the code files are attached here, in this folder.
 
 
+  ## Test plan and test ouput
+
+
+| Test ID | Description | Expected Input | Expected Output | Type of Test | Status |
+|---|---|---|---|---|---|
+| LTP01 | Test to calculate carbon emission score | Details of the user | carbon emission score according to the user details | Technical | Pass|
+
+  
+
+
 Images- In this all the codes along with the output is attached.
 
 
