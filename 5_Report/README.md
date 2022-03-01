@@ -23,14 +23,23 @@ Low Level Requirements: -
 • Then it displays the score and informs us about the carbon emissions around us.
 
 
+*High level Requirements*
 
 |  ID|Description|Status|
   |---|---|---|
-  | HR01 | | Implemented |
-  | HR02 | View records easily and ablity to update it | Impemented|
-  | HR03 | Adding password encryption | Future|
-  | HR04 | Implementing an option to add reminder | Future|
-
+  | HR01 | Calculates carbon emissions| Implemented |
+  | HR02 | Displays carbon emission and suggests to lower it | Impemented|
+  | HR03 | Rates suurounding environment according to carbon emission score | Implemented|
+  | HR04 | Display list which includes the steps and preventive to lower the carbon emission| Future|
+  
+  
+  *Low Level Requirements*
+|  ID|Description|Status|
+  |---|---|---|
+  | LR01 | Enter data from user| Implemented |
+  | LR02 | Calculating score according to the carbon emission factor | Impemented|
+  | LR03 | Adding new parametres which contribute in carbon emission| Future|
+  
 
 
 
