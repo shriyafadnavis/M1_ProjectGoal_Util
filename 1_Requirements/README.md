@@ -50,3 +50,28 @@ When - Anytime to calculate the carbon emission.
 Why- To calculate carbon emissions and steps to lower it.
 
 How- It will ask user to give inputs in form of parametres like Petrol consumption,gas consumption etc and based on this calculate the carbon emission score.
+
+
+#HIGH LEVEL REQUIREMENTS
+
+
+|  ID|Description|Status|
+  |---|---|---|
+  | HR01 | Calculates carbon emissions | Implemented |
+  | HR02 | Displays carbon emission score and suggests to lower it | Impemented|
+  | HR03 | Rates surrounding evironment according to carbon emssion score |Implemented|
+  | HR04 | Display list which includes the steps and preventive to lower the carbon emission | Future|
+  
+  
+  #LOW LEVEL REQUIREMENTS
+  |  ID|Description|Status|
+  |---|---|---|
+  | LR01 | Enter data from the user | Implemented |
+  | LR02 | calculating score according to the carbon emission factor| Impemented|
+  | LR03 | Adding new parametres which contribute in carbon emission| Future|
+  
+
+
+
+
+
