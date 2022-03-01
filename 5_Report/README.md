@@ -22,6 +22,19 @@ Low Level Requirements: -
 • Then the program takes the sum of all the above values.
 • Then it displays the score and informs us about the carbon emissions around us.
 
+
+
+|  ID|Description|Status|
+  |---|---|---|
+  | HR01 | | Implemented |
+  | HR02 | View records easily and ablity to update it | Impemented|
+  | HR03 | Adding password encryption | Future|
+  | HR04 | Implementing an option to add reminder | Future|
+
+
+
+
+
 SWOT ANALYSIS
 
 Strength- It Calculates the Carbon Emission value in your surroundings released by you. According to your score it detects and recommends the step you need to take to better yourself and emit less carbon in your surroundings.
