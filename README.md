@@ -1,3 +1,4 @@
 # M1_ProjectGoal_Util
-CodigaBadgelink
-https://api.codiga.io/project/31103/score/svg
+
+![AGPL License](https://api.codiga.io/project/31103/score/svg)
+![AGPL License](https://api.codiga.io/project/31103/status/svg)
