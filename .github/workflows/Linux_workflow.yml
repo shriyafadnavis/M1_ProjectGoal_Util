@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc 3_Implementation/src main.c carbon.h carbon.c
+      run: gcc 3_Implementation/src/main.c
     - name: run
       run: ./a.out
 
