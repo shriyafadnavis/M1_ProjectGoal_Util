@@ -1,0 +1,20 @@
+name: Linux C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc 3_Implementation/src/main.c carbon.h carbon.c
+    - name: run
+      run: ./a.out
+
