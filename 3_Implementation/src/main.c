@@ -1,6 +1,7 @@
 #include"stdio.h"
 #include"carbon.h"
-void carbonemit()
+
+int carbonemit()
 {
     char cname[10];
     char city[10];
