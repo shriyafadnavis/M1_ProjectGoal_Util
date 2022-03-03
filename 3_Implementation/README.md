@@ -4,8 +4,10 @@ This folder contains all the required header files, coding files and supporting 
 
 ## Instructions to RUN program
 1. Clone my repository into your system
-2. You should go to 3_Implementation/ folder
-3. Run "make run" command in your terminal for execution of program
+2. You should go to 3_Implementation/src
+3. Open the WSL terminal In VS Code
+4. Run "gcc main.c carbon.h carbon.c" command in your WSL terminal for execution of program
+5. Run ".\a.out" command in your WSL terminal
 
 
 ## Folder description
