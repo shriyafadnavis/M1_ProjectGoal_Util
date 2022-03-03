@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/checkout@v2
     - name: header
-      run: gcc 3_Implementation/src/carbon.h
+      run: gcc 3_Implementation/src/carbon.h -c
     - name: carbon file
       run: gcc 3_Implementation/src/carbon.c -c      
     - name: main
