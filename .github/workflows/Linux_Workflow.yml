@@ -20,6 +20,6 @@ jobs:
     - name: carbon file
       run: gcc 3_Implementation/src/carbon.c -c      
     - name: main
-      run: gcc 3_Implementation/src/main.c -o main.exe
+      run: gcc 3_Implementation/src/carbon.h -c && 3_Implementation/src/main.c -o main.exe 
     - name: run
       run: .\main.exe           
