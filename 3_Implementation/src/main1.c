@@ -1,6 +1,6 @@
-	#include <stdio.h>
-	#include <stdlib.h>
-	#include "carbon.h"					/* Add include file*/
+#include <stdio.h>
+#include <stdlib.h>
+#include "carbon.h"					/* Add include file*/
     char cname[10];
     char ccity[10];
     
@@ -51,8 +51,8 @@
         }
 
 
-	int main()
-	{
+    int main()
+      {
        char name[10];
        char city[10];
     
