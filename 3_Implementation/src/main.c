@@ -1,7 +1,7 @@
 #include"stdio.h"
 #include"carbon.h"
 
-int carbonemit()
+void carbonemit()
 {
     char cname[10];
     char city[10];
@@ -101,5 +101,5 @@ printf("\n\nYour carbon emission score due to transporation is %f",avg_flighthrs
 
 }
     printf("Carbon Footprint Calculator\n\n");
-    int carbonemit();
+    void carbonemit();
     //return 0;
