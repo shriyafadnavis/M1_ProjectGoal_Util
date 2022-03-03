@@ -23,6 +23,6 @@ jobs:
     - name: header2
       run: gcc 3_Implementation/src/carbon.h -c  
     - name: main
-      run: gcc 3_Implementation/src/main.c -o 
+      run: gcc 3_Implementation/src/main.c
     - name: run
       run: .\a.out         
