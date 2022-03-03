@@ -15,11 +15,14 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/checkout@v2
     - uses: actions/checkout@v2
+    - uses: actions/checkout@v2
     - name: header
       run: gcc 3_Implementation/src/carbon.h -c
     - name: carbon file
-      run: gcc 3_Implementation/src/carbon.c -c      
+      run: gcc 3_Implementation/src/carbon.c -c
+    - name: header2
+      run: gcc 3_Implementation/src/carbon.h -c  
     - name: main
-      run: gcc 3_Implementation/src/carbon.h -c && gcc 3_Implementation/src/main.c -o main.exe 
+      run: gcc 3_Implementation/src/main.c -o main.exe 
     - name: run
       run: .\main.exe           
