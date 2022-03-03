@@ -100,6 +100,9 @@ printf("\n\nYour carbon emission score due to transporation is %f",avg_flighthrs
     //return 0;
 
 }
+
+int main(){
     printf("Carbon Footprint Calculator\n\n");
-    void carbonemit();
+    carbonemit();
     //return 0;
+}
