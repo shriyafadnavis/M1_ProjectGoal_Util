@@ -6,7 +6,7 @@ This folder contains all the required header files, coding files and supporting 
 1. Clone my repository into your system
 2. You should go to 3_Implementation/src
 3. Open the WSL terminal In VS Code
-4. Run "gcc main.c carbon.h carbon.c" command in your WSL terminal for execution of program
+4. Run "gcc main1.c carbon.h carbon.c" command in your WSL terminal for execution of program
 5. Run ".\a.out" command in your WSL terminal
 
 
